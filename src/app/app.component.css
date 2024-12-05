@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+h1:hover
+{
+    color: blueviolet;
+    font-style: italic;
+}
+h2
+{
+    text-align: center;
+    text-transform: uppercase;
+}
+h2:hover
+{
+    color: brown;
+    background-color: aquamarine;
+    font-size: large;
+}
+.tap
+{
+    width: 400px;
+    margin-left: 500px;
+    background-color: lightgreen;
+    box-shadow: 20,20;
+}
+.tap:hover{
+    background-color: blueviolet;
+    border-radius: 30px;
+}
